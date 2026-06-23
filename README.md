@@ -20,7 +20,7 @@
 ## Graphical Overview
 
 <p align="center">
-  <img src="fig.png" alt="Graphical overview of artificial hybridization among Vinca accessions" width="750">
+  <img src="Figure 1 Hibridization in Vincas.jpg" alt="Graphical overview of artificial hybridization among Vinca accessions" width="750">
 </p>
 
 <p align="center">
