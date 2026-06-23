@@ -96,27 +96,3 @@ Five controlled crosses were performed under protected conditions.
 
 ---
 
-## Repository Structure
-
-```text
-CBAB-2026-5590/
-│
-├── README.md
-├── manuscript/
-│   └── CBAB-2026-5590_manuscript.docx
-│
-├── data/
-│   ├── phenotypic_data.csv
-│   └── segregation_data.csv
-│
-├── scripts/
-│   ├── 01_data_cleaning.R
-│   ├── 02_chi_square_tests.R
-│   └── 03_figures_tables.R
-│
-├── results/
-│   ├── tables/
-│   └── figures/
-│
-└── supplementary_material/
-    └── supplementary_tables.xlsx
