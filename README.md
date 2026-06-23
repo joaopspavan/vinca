@@ -1,8 +1,31 @@
 # Artificial Hybridization Among *Vinca* Accessions Provides High Segregation in Important Ornamental Traits
 
+![Status](https://img.shields.io/badge/status-submitted-blue)
+![Journal](https://img.shields.io/badge/journal-CBAB-green)
+![Manuscript](https://img.shields.io/badge/manuscript-CBAB--2026--5590-orange)
+![Species](https://img.shields.io/badge/species-Catharanthus%20roseus-purple)
+![License](https://img.shields.io/badge/license-academic-lightgrey)
+
+---
+
+## Manuscript Information
+
+**Title:** Artificial hybridization among *Vinca* accessions provides high segregation in important ornamental traits  
 **Manuscript ID:** CBAB-2026-5590  
 **Journal:** *Crop Breeding and Applied Biotechnology*  
 **Status:** Submitted  
+
+---
+
+## Graphical Overview
+
+<p align="center">
+  <img src="Fig.png" alt="Graphical overview of artificial hybridization among Vinca accessions" width="750">
+</p>
+
+<p align="center">
+  <b>Figure 1.</b> Graphical summary of controlled hybridization and segregation of ornamental traits in F₁ and F₂ populations of <i>Catharanthus roseus</i>.
+</p>
 
 ---
 
